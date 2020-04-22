@@ -10,4 +10,4 @@ Here are our findings:
 
 
 *We have found that while there is only a total of 604 Kickstarter campaigns for plays in Great Britain, the “plays” category is the most successful.
-![Parent Category Outcome](kickstarter-analyis/Outcomes based on launch date.png)
+![Parent Category Outcome](/kickstarter-analyis/Outcomes based on launch date.png)
