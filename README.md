@@ -1,6 +1,7 @@
-# kickstarter-analyis
+# kickstarter-analysis
 Performing analysis on Kickstarter data to uncover trends
 
+##Initial analysis
 We did an analysis on Louise fundraising campaign, we used the data from her previous and live campaigns. She sent us the data 
 The questions we want to answer are? 
 *When will the be the best time to launch a fundraising in theater campaign in the US?
