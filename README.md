@@ -13,7 +13,7 @@ Here are our findings:
 
 *We have found that May to June is the best time to launch a theater campaign in the US. 
 
-![Outcomes based on launch date US](https://github.com/lskerrett/kickstarter-analyis/blob/master/Outcomes%20based%20on%20launch%20date.png)
+
 
 *We have found that out of the parent category the “plays” category is the most successful. 
 
