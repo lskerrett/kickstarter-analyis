@@ -27,6 +27,7 @@ Based on our research and using the data provided to us by Louise, it is hard to
 Outcome based on goals, what the graph below demonstrate is that:
 *Up to a $29 999.- goal, her chances of her successful campaign decrease the higher the goal is. 
 *If the goal is $ 29 999.- or higher, there is no clear correlation between campaign initial goal and the success of the campaign. 
+
 ![Outcome based goal](https://github.com/lskerrett/kickstarter-analyis/blob/master/Outcome%20based%20goal.png)
 
 Outcome based on launch date
