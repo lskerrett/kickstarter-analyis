@@ -13,10 +13,10 @@ Here are our findings:
 
 *We have found that May to June is the best time to launch a theater campaign in the US. 
 
-![Outcomes based on launch date](https://github.com/lskerrett/kickstarter-analyis/blob/master/Outcomes%20based%20on%20launch%20date.png)
+![Outcomes based on launch date US](https://github.com/lskerrett/kickstarter-analyis/blob/master/Outcomes%20based%20on%20launch%20date.png)
 *We have found that out of the parent category the “plays” category is the most successful. 
 
-![Parent Category Outcome Image](https://github.com/lskerrett/kickstarter-analyis/blob/master/Parent%20Category%20Outcome%20Image.png)
+![Parent Category Outcome Image](https://github.com/lskerrett/kickstarter-analyis/blob/master/Outcomes%20based%20on%20launch%20date%20US.png)
 *She could launch a project in Great Britain with an estimated bduget of $ 4000.- but she should try to get her play produce for less, although the mean campaign goal is around £4,000 but half of the campaign goals are less than £2,000, which is just over the 3rd quartile for amounts pledged.
 
 ### Challenge
