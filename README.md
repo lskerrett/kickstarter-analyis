@@ -13,7 +13,7 @@ Here are our findings:
 
 *We have found that May to June is the best time to launch a theater campaign in the US. 
 
-
+![Outcomes based on launch date US](https://github.com/lskerrett/kickstarter-analyis/blob/master/Outcomes%20based%20on%20launch%20date%20US.png)
 
 *We have found that out of the parent category the “plays” category is the most successful. 
 
@@ -33,7 +33,7 @@ Outcome based on goals, what the graph below demonstrate is that:
 Outcome based on launch date
 *The second finding from our research and shown in the graph below is that the best time of the year to launch a campaign for theater is between April and June, the best month is May. Hence based on our finding, the best time to launch a campaign for plays will be in May and in order to increase its chance of success Louise should aim at a $ 29 999.- or below goal.
 
-![Outcome based launch date](https://github.com/lskerrett/kickstarter-analyis/blob/master/Outcome%20based%20launch%20date.png)
+![Outcome based on launch date](https://github.com/lskerrett/kickstarter-analyis/blob/master/Outcome%20based%20on%20launch%20date.png)
 
 *Also based on the graphic below the length of the campaign does affect so much its success either. We should also look at the length successful campaign run between 19 to 39 days. Unsuccessful campaign run between 20 to 34 day. 
 
